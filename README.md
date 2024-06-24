@@ -1,4 +1,5 @@
 # स्वर्णिम भारत
+![image](https://github.com/Vishal-Piprotar/swarnim-bharat/assets/150599739/b1841a04-6ea8-4954-ae89-0ec833e838e0)
 
 स्वर्णिम भारत is a React-based web application showcasing the rich heritage of India. This project aims to provide an interactive and informative platform for users to explore India's cultural diversity, historical landmarks, and traditional heritage.
 

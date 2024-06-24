@@ -1,0 +1,23 @@
+.category {
+    display: flex;
+    align-items: center;
+}
+
+.category img {
+    width: 100px;
+    height: 100px;
+    margin: auto
+}
+
+.category h1 {
+    text-decoration: none;
+    color: var(--heading-color);
+    text-align: center;
+    margin-top: 25px;
+    letter-spacing: 1px;
+    font-size: 18px;
+}
+
+.category h1:hover {
+    color: var(--primary-color);
+}
